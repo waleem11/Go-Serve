@@ -34,4 +34,7 @@ Before running the server, ensure you have the following:
 - Docker
 - Docker-Compose
 - Understanding of concept of each server
-- 
+
+## Download Game ( Ludo Battle )
+
+- To Download the Ludo Battle game, [**Click Here**](ludobattle.com.pk)
